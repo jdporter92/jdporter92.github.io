@@ -17,3 +17,12 @@ ul {
   border-bottom: 1px solid #dddddd;
 }
 
+h1 {
+  text-align: center;
+  text-indent: -40px
+}
+
+
+p {
+  text-indent: 10px
+}
